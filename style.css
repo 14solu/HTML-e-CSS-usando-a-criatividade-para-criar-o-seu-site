@@ -6,9 +6,9 @@
 }
 
 .cabecalho-imagem {
-    width="20%" 
+    width:"20%" 
 }
-.cabecalho lista-item {
+.cabecalho {
     display: inline-block;
-    margin: 0 16px
+    margin: 0 16px;
 }
