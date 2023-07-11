@@ -54,6 +54,11 @@ body{
 }
 .Embaixadoras-titulo { 
     text-align: center;
+    padding: 50px 0;
+}
+.embaixadoras-todas {
+grid: ;
+grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 
