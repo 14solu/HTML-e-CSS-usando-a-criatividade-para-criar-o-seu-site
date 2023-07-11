@@ -28,6 +28,7 @@
     background-image:linear-gradient(#39884a,#7b7e7c);
     color: white;
     display:flex;
+    justify-content: center;
     
 }
 .Equipe-div-conteudo{
