@@ -59,6 +59,7 @@ body{
 }
 .embaixadoras-todas{
     text-align: center;
+    display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
