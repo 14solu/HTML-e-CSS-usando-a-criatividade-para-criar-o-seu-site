@@ -61,6 +61,15 @@ body{
     text-align: center;
     grid-template-columns:20% 20% 20% 20% 20%;
 }
+.rodape{
+    background-color: #308442;
+    text-align: center;
+}
+.rodape-imagem{
+height: 60px;
+padding: 12px 0;
+
+}
 
 
 
