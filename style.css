@@ -60,7 +60,8 @@ body{
 .embaixadoras-todas{
     text-align: center;
     display: grid;
-    grid-template-columns:33% 33% 33%;
+    grid-template-columns:33% 33%;
+    padding: 50px 0;
 }
 
 .embaixadoras-todas2{
