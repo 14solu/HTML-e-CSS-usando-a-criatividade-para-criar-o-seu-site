@@ -61,12 +61,14 @@ body{
     text-align: center;
     display: grid;
     grid-template-columns:45% 45%;
+    border: #0f0f0f;
 }
 
 .embaixadoras-todas2{
     text-align: center;
     display: grid;
     grid-template-columns:33% 33% 33%;
+    border: #0f0f0f;
 }
 
 
