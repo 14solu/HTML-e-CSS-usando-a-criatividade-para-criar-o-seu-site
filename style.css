@@ -60,7 +60,7 @@ body{
 .embaixadoras-todas{
     text-align: center;
     display: grid;
-    grid-template-columns:33% 33%;
+    grid-template-columns:45% 45%;
 }
 
 .embaixadoras-todas2{
@@ -69,10 +69,7 @@ body{
     grid-template-columns:33% 33% 33%;
 }
 
-.embaixadoras-todas56{
-    display: flex;
-    justify-content: center;
-}
+
 
 .rodape{
     background-color: #0f0f0f;
